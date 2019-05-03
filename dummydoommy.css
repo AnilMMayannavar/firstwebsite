@@ -1,0 +1,24 @@
+
+    html,
+    body {
+      overflow-x: hidden;
+    }
+
+.navbar-light .navbar-brand {
+    color: #221B17;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #221B17;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #221B17;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  text-shadow:15px;
+   color: #E5550C !important;
+}
+
+</style>
